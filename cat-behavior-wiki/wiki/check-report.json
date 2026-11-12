@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-12",
+  "sources": 5,
+  "concepts": 6,
+  "myths": 4,
+  "broken_links": 0,
+  "reverse_link_mismatches": 0,
+  "status": "Wiki checks passed; approved 18-slide HTML created; browser visual review blocked",
+  "limitations": [
+    "未完成瀏覽器、手機與列印實際驗收",
+    "既有插圖公開再散布授權未另外取得證明"
+  ]
+}

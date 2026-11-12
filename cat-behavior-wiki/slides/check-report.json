@@ -1,0 +1,10 @@
+{
+  "slides": 18,
+  "interactive_details": 4,
+  "illustrations": 4,
+  "missing_local_links": [],
+  "external_runtime_dependencies": 0,
+  "html_structure": "passed",
+  "browser_visual_review": "blocked: preview host unreachable and local-file navigation disallowed",
+  "mobile_and_keyboard_interaction": "implemented, not browser-verified"
+}
